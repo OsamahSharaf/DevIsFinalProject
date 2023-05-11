@@ -1,0 +1,12 @@
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/bin/Debug/net7.0/EntityLayer.deps.json
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/bin/Debug/net7.0/EntityLayer.dll
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/bin/Debug/net7.0/EntityLayer.pdb
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.AssemblyInfo.cs
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.dll
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/refint/EntityLayer.dll
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/EntityLayer.pdb
+/Users/osamah/projects/biterme projesi /devis/EntityLayer/obj/Debug/net7.0/ref/EntityLayer.dll

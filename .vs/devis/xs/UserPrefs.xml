@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{D9198EC9-F827-426B-93B5-377B86D176FC}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="devis/wwwroot/assets/css/basvur.css">
+    <Files>
+      <File FileName="devis/Views/Home/Job_post_page.cshtml" Line="16" Column="51" IsPinned="True" />
+      <File FileName="devis/Controllers/HomeController.cs" />
+      <File FileName="devis/Views/Shared/Header.cshtml" />
+      <File FileName="devis/Views/Home/Quiz.cshtml" />
+      <File FileName="devis/wwwroot/assets/css/basvur.css" Line="41" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="devis" expanded="True">
+            <Node name="devis" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="syntax-highlighter" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="css" expanded="True">
+                    <Node name="basvur.css" selected="True" />
+                  </Node>
+                  <Node name="img" expanded="True" />
+                  <Node name="js" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="EntityLayer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/single_blog.cshtml" relfile="devis/Views/Home/single_blog.cshtml" line="275" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.devis PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

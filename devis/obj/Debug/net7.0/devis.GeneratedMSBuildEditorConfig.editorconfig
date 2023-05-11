@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = devis
+build_property.RootNamespace = devis
+build_property.ProjectDir = /Users/osamah/projects/biterme projesi /devis/devis/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/osamah/projects/biterme projesi /devis/devis
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/basvur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9iYXN2dXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/job_listing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9qb2JfbGlzdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/Job_post_page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Kb2JfcG9zdF9wYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/joinpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9qb2lucGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/MiniQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NaW5pUXVpei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/Quiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9RdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/signpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaWducGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/single_blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaW5nbGVfYmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Home/test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS90ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Shared/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/osamah/projects/biterme projesi /devis/devis/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i0hcgol05t

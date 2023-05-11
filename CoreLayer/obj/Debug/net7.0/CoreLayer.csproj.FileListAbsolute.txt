@@ -1,0 +1,12 @@
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/bin/Debug/net7.0/CoreLayer.deps.json
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/bin/Debug/net7.0/CoreLayer.dll
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/bin/Debug/net7.0/CoreLayer.pdb
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.csproj.AssemblyReference.cache
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.AssemblyInfoInputs.cache
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.AssemblyInfo.cs
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.csproj.CoreCompileInputs.cache
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.dll
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/refint/CoreLayer.dll
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/CoreLayer.pdb
+/Users/osamah/projects/biterme projesi /devis/CoreLayer/obj/Debug/net7.0/ref/CoreLayer.dll
